@@ -1,0 +1,4 @@
+name: EssentialsGUI
+version: '${version}'
+main: com.jacky8399.essentialsgui.EssentialsGUI
+api-version: 1.19
